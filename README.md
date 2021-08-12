@@ -1,4 +1,4 @@
-## Olá, eu sou o Almir Marcelo!
+## Olá, meu nome é Almir Marcelo!
 
 - 🔭 Atualmente estou em transição de carreira
 - 🌱 Estudando React
