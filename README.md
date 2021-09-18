@@ -1,6 +1,6 @@
 ## Olá, meu nome é Almir Marcelo!
 
-- 🔭 Atualmente estou em transição de carreira
+- 🔭 Atualmente estou em transição de carreira.
 - 🌱 Estudando React e NodeJS.
 
  <div>
