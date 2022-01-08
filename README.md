@@ -33,7 +33,6 @@
      <br />
      <br />
       <img align="center" title="Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img align="center" title="Java" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <br />
 <br />
  </kbd>
