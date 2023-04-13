@@ -1,7 +1,7 @@
 ## Olá, meu nome é Almir Marcelo!
 
 - 🔭 Atualmente estou em transição de carreira.
-- 🌱 Atualmente estudando Java e React JS.
+- 🌱 Atualmente estudando Node e React JS.
 
  <div>
   <a href="https://github.com/almir05">
