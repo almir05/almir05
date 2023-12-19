@@ -24,11 +24,6 @@
 <kbd>Estudando:</kbd>
  <br />
  <br />
-      <img align="center" title="Node JS" alt="Node JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-      <img align="center" title="React JS" alt="React JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">       
-      <img align="center"  title="MySQL" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-      <img align="center"  title="Docker" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-      <img align="center"  title="PostgreSQL" alt="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
       <img align="center"  title="Java" alt="Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <br />
  <br />
@@ -37,7 +32,8 @@
 <kbd>Interesse em:</kbd> 
      <br />
      <br />
-      <img align="center" title="Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
+      <img align="center" title="Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img align="center" title="Spring Boot" height="50" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
 <br />
 <br />
  </kbd>
