@@ -32,7 +32,6 @@
 <kbd>Interesse em:</kbd> 
      <br />
      <br />
-      <img align="center" title="Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img align="center" title="Spring Boot" height="50" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
 <br />
 <br />
