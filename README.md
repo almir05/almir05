@@ -1,7 +1,7 @@
 ## Olá, meu nome é Almir Marcelo!
 
 - 🔭 Atualmente estou em transição de carreira.
-- 🌱 Atualmente estudando Node e React JS.
+- 🌱 Atualmente estudando Java e Spring Boot.
 
  <div>
   <a href="https://github.com/almir05">
@@ -16,7 +16,7 @@
       <img align="center" title="HTML5" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center"  title="CSS3" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center"  title="Javascript" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center"  title="Bootstrap" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+      
 <br />
 <br /> 
 </kbd>
